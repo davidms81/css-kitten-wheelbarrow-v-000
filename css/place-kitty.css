@@ -3,8 +3,8 @@
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 1;
-  top: 6px;
-  left: 49px;
+  top: 276px;
+  left: 129px;
 }
 
 /* Select the image with id of kitty-2 */
@@ -12,8 +12,8 @@
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 2;
-  top: 112px;
-  left: 169px;
+  top: 212px;
+  left: 369px;
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
